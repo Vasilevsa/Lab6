@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Александр\source\repos\Lab6New — копия\Lab6S\Lab6S\Queue2.h(109,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Александр\source\repos\Lab6New — копия\Lab6S\Lab6S\Source.cpp(41): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::ostream &operator <<<int>(std::ostream &,const Queue2<int> &)"
+C:\Users\Александр\source\repos\Lab6New — копия\Lab6S\Lab6S\List2.h(301): warning C4715: List2<int>::sel_el: значение возвращается не при всех путях выполнения
+  Lab6S.vcxproj -> C:\Users\Александр\source\repos\Lab6New — копия\Lab6S\Debug\Lab6S.exe
